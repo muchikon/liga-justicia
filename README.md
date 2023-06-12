@@ -9,4 +9,9 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github
 Agregado desde github
 
+<<<<<<< HEAD
 ## Estos cambios son nuevos desde Github
+=======
+## Estos cambios son nuevos desde mi repo local
+GG
+>>>>>>> bd2a355 (Readme.md local actualizado 1)
